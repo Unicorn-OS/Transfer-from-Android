@@ -1,0 +1,1 @@
+../Media Transfer Protocol/mtp-detect/example.sh
